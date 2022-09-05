@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Script that prints the current enviroment variables which name starts with TERM
+env | grep ^TERM*
