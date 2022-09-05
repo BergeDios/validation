@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# SCript that moves all files beginnig with uper case to target directory
+export LC_ALL=C
+mv ./[A-Z]* /tmp/u

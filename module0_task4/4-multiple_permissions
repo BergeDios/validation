@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# create a file called hello and give customized permissions
+touch hello && chmod 754 hello
