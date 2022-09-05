@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that shows content of current working directoy
+# using long format and includoing hidden files
+ls -la
